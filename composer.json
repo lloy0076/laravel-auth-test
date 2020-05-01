@@ -1,12 +1,15 @@
 {
-    "name": "laravel/laravel",
+    "name": "lloy0076/laravel-auth-test",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "A simple Laravel & Socialite auth test.",
     "keywords": [
-        "framework",
         "laravel"
+        "authentication",
+        "socialite",
+        "facebook",
+        "github",
     ],
-    "license": "MIT",
+    "license": "Apache-2.0",
     "require": {
         "php": "^7.2.5",
         "fideloper/proxy": "^4.2",
