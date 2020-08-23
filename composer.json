@@ -3,11 +3,11 @@
     "type": "project",
     "description": "A simple Laravel & Socialite auth test.",
     "keywords": [
-        "laravel"
+        "laravel",
         "authentication",
         "socialite",
         "facebook",
-        "github",
+        "github"
     ],
     "license": "Apache-2.0",
     "require": {
